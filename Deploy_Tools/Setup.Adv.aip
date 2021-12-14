@@ -19,7 +19,7 @@
     <ROW Property="ARPHELPLINK" Value="http://it.dhgpharma.com.vn"/>
     <ROW Property="ARPHELPTELEPHONE" Value="0988255863"/>
     <ROW Property="ARPNOREPAIR" MultiBuildValue="DefaultBuild:1"/>
-    <ROW Property="ARPPRODUCTICON" Value="Logo.exe" Type="8"/>
+    <ROW Property="ARPPRODUCTICON" Value="Logo_1.exe" Type="8"/>
     <ROW Property="ARPSYSTEMCOMPONENT" Value="1"/>
     <ROW Property="ARPURLINFOABOUT" Value="http://it.dhgpharma.com.vn"/>
     <ROW Property="ARPURLUPDATEINFO" Value="http://it.dhgpharma.com.vn"/>
@@ -744,7 +744,7 @@
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
     <ROW Name="HospitalPrinter.exe" SourcePath="C:\Users\OngTrieuHau\Documents\DH_SETUP_ADV\Deloy_HospitalPrinter\Logo.ico" Index="0"/>
-    <ROW Name="Logo.exe" SourcePath="DH_CODE_MAIN\ALL_IMAGES\Logo.ico" Index="0"/>
+    <ROW Name="Logo_1.exe" SourcePath="dhg.hospitalprinter\Deploy_Tools\Logo.ico" Index="0"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
     <ROW Action="AI_DOWNGRADE" Condition="AI_NEWERPRODUCTFOUND AND (UILevel &lt;&gt; 5)" Sequence="210"/>
