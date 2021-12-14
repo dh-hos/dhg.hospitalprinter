@@ -743,7 +743,6 @@
     <ROW Feature_="MainFeature" Component_="OTH.PAY.SHB.Apis.dll"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiIconsComponent">
-    <ROW Name="HospitalPrinter.exe" SourcePath="C:\Users\OngTrieuHau\Documents\DH_SETUP_ADV\Deloy_HospitalPrinter\Logo.ico" Index="0"/>
     <ROW Name="Logo_1.exe" SourcePath="dhg.hospitalprinter\Deploy_Tools\Logo.ico" Index="0"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiInstExSeqComponent">
@@ -820,8 +819,8 @@
     <ROW Registry="VersionMinor" Root="-1" Key="Software\Microsoft\Windows\CurrentVersion\Uninstall\[ProductName] [ProductVersion]" Name="VersionMinor" Value="#17" Component_="AI_CustomARPName" VirtualValue="#"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiShortsComponent">
-    <ROW Shortcut="DHG.HospitalPrinter" Directory_="DesktopFolder" Name="DHG~1.HOS|DHG.Hospital Printer" Component_="HospitalPrinter.exe" Target="[#HospitalPrinter.exe]" Hotkey="0" Icon_="HospitalPrinter.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
-    <ROW Shortcut="DHG.HospitalPrinter_1" Directory_="DHGPharma_Dir" Name="DHG~1.HOS|DHG.Hospital Printer" Component_="HospitalPrinter.exe" Target="[#HospitalPrinter.exe]" Hotkey="0" Icon_="HospitalPrinter.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="DHG.HospitalPrinter" Directory_="DesktopFolder" Name="DHG~1.HOS|DHG.Hospital Printer" Component_="HospitalPrinter.exe" Target="[#HospitalPrinter.exe]" Hotkey="0" Icon_="Logo_1.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
+    <ROW Shortcut="DHG.HospitalPrinter_1" Directory_="DHGPharma_Dir" Name="DHG~1.HOS|DHG.Hospital Printer" Component_="HospitalPrinter.exe" Target="[#HospitalPrinter.exe]" Hotkey="0" Icon_="Logo_1.exe" IconIndex="0" ShowCmd="1" WkDir="APPDIR"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiThemeComponent">
     <ATTRIBUTE name="UsedTheme" value="surface"/>
