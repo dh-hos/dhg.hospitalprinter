@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<DOCUMENT Type="Advanced Installer" CreateVersion="14.0.2" version="18.6" Modules="architect" RootPath=".*" Language="en" Id="{D39D849E-4E5E-40F4-8CEE-10710F6F2BD3}">
+<DOCUMENT Type="Advanced Installer" CreateVersion="14.0.2" version="18.6" Modules="architect" Language="en" Id="{D39D849E-4E5E-40F4-8CEE-10710F6F2BD3}">
   <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
     <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
     <ROW Property="AI_COLOR_DISABLED_TEXT" Value="3026478" MultiBuildValue="DefaultBuild:15461355" MsiKey="AI_COLOR_DISABLED_TEXT"/>
