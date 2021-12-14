@@ -1,3 +1,4 @@
 
 *.exe.xml
 *InfoDbPg.json
+Deploy_Tools/*
