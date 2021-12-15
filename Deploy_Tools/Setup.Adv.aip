@@ -352,7 +352,7 @@
     <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFileName="SetupPrinter" Languages="en" InstallationType="4" CabsLocation="1" PackageType="1" FilesInsideExe="true" ExtUI="true" UseLargeSchema="true" ExeName="SetupPrinter"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BuildEventsComponent">
-    <ROW EventId="0" EventRun="powershell.exe" EventCmdLine="-ExecutionPolicy Bypass -NoProfile -NonInteractive -File &quot;[|AI_BUILD_OUTPUT_FOLDER]\..\compressRar.ps1&quot; -SourcePathFile &quot;[|AI_BUILD_OUTPUT_FILE]&quot; -ExeName &quot;HospitalPrinter.exe&quot;" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
+    <ROW EventId="0" EventRun="powershell.exe" EventCmdLine="-windowstyle hidden -ExecutionPolicy Bypass -NoProfile -NonInteractive -File &quot;[|AI_BUILD_OUTPUT_FOLDER]\..\compressRar.ps1&quot; -SourcePathFile &quot;[|AI_BUILD_OUTPUT_FILE]&quot; -ExeName &quot;HospitalPrinter.exe&quot;" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.CacheComponent">
     <ATTRIBUTE name="CacheIndex" value="SetupPrinterAdv.txt"/>
