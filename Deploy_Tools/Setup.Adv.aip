@@ -352,8 +352,7 @@
     <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFileName="SetupPrinter" Languages="en" InstallationType="4" CabsLocation="1" PackageType="1" FilesInsideExe="true" ExtUI="true" UseLargeSchema="true" ExeName="SetupPrinter"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BuildEventsComponent">
-    <ROW EventId="0" EventRun="E:\OTH_CODE\DH_CODE_MAIN\ALL_EXE_BUILD_PROJECT\UPLOAD_MODULE_TO_DRIVE_FSHARE\DH.UpModuleToDrive.exe" EventCmdLine="6 &quot;E:\DH_SETUP_ADV\AdvanceInstaller-Output\Printer\SetupPrinter.exe&quot;" EventWkDir="E:\DH_SETUP_ADV\AdvanceInstaller-Output\Printer" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
-    <ROW EventId="1" EventRun="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe" EventCmdLine="&quot;E:\OTH_CODE\ROO_EXE\HospitalPrinter.exe\HospitalPrinter.exe.csproj&quot; /t:Rebuild /p:Configuration=Release /nologo /noconsolelogger" EventOrder="2" EventType="1" EventInterupt="false" EventEnabled="false" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
+    <ROW EventId="0" EventRun="powershell.exe" EventCmdLine="-ExecutionPolicy Bypass -NoProfile -NonInteractive -File &quot;C:\Users\OngTrieuHau\Documents\GitHub\dhg.hospitalprinter\Deploy_Tools\compressRar.ps1&quot; -SourcePathFile &quot;[|AI_BUILD_OUTPUT_FILE]&quot;" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.CacheComponent">
     <ATTRIBUTE name="CacheIndex" value="SetupPrinterAdv.txt"/>
