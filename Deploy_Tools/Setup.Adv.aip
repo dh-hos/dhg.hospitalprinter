@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <DOCUMENT Type="Advanced Installer" CreateVersion="14.0.2" version="18.6" Modules="architect" RootPath="..\..*" Language="en" Id="{D39D849E-4E5E-40F4-8CEE-10710F6F2BD3}">
-  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
-    <ROW Name="MigrationUninstallCode" Value="{325C0350-D151-4CCF-B57F-33CF97B666AB}"/>
-  </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.MsiPropsComponent">
     <ROW Property="AI_BITMAP_DISPLAY_MODE" Value="0"/>
     <ROW Property="AI_COLOR_DISABLED_TEXT" Value="3026478" MultiBuildValue="DefaultBuild:15461355" MsiKey="AI_COLOR_DISABLED_TEXT"/>
@@ -355,12 +352,8 @@
     <ROW BuildKey="DefaultBuild" BuildName="DefaultBuild" BuildOrder="1" BuildType="0" PackageFileName="SetupPrinter" Languages="en" InstallationType="4" CabsLocation="1" PackageType="1" FilesInsideExe="true" ExtUI="true" UseLargeSchema="true" ExeName="SetupPrinter"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.BuildEventsComponent">
-<<<<<<< Updated upstream
     <ROW EventId="0" EventRun="E:\OTH_CODE\DH_CODE_MAIN\ALL_EXE_BUILD_PROJECT\UPLOAD_MODULE_TO_DRIVE_FSHARE\DH.UpModuleToDrive.exe" EventCmdLine="6 &quot;E:\DH_SETUP_ADV\AdvanceInstaller-Output\Printer\SetupPrinter.exe&quot;" EventWkDir="E:\DH_SETUP_ADV\AdvanceInstaller-Output\Printer" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
     <ROW EventId="1" EventRun="C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\MSBuild\15.0\Bin\MSBuild.exe" EventCmdLine="&quot;E:\OTH_CODE\ROO_EXE\HospitalPrinter.exe\HospitalPrinter.exe.csproj&quot; /t:Rebuild /p:Configuration=Release /nologo /noconsolelogger" EventOrder="2" EventType="1" EventInterupt="false" EventEnabled="false" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
-=======
-    <ROW EventId="0" EventRun="powershell.exe" EventCmdLine="-ExecutionPolicy Bypass -NoProfile -NonInteractive -File &quot;[|AI_BUILD_OUTPUT_FOLDER]\..\compressRar.ps1&quot; -SourcePathFile &quot;[|AI_BUILD_OUTPUT_FILE]&quot; -ExeName &quot;HospitalPrinter.exe&quot;  " EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
->>>>>>> Stashed changes
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.CacheComponent">
     <ATTRIBUTE name="CacheIndex" value="SetupPrinterAdv.txt"/>
