@@ -355,8 +355,8 @@
     <ROW EventId="0" EventRun="powershell.exe" EventCmdLine="-windowstyle hidden -ExecutionPolicy Bypass -NoProfile -NonInteractive -File &quot;[|AI_BUILD_OUTPUT_FOLDER]\..\compressRar.ps1&quot; -SourcePathFile &quot;[|AI_BUILD_OUTPUT_FILE]&quot; -ExeName &quot;HospitalPrinter.exe&quot;" EventOrder="1" EventType="2" EventInterupt="false" EventEnabled="true" EventPrecompression="false" RollbackEvent="false" EventBuild="DefaultBuild"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.CacheComponent">
-    <ATTRIBUTE name="CacheIndex" value="SetupPrinterAdv.txt"/>
-    <ATTRIBUTE name="Folder" value="C:\Users\OngTrieuHau\Documents\DH_SETUP_ADV\AdvanceInstaller-Output\Printer"/>
+    <ATTRIBUTE name="CacheIndex" value="Setup.Adv.txt"/>
+    <ATTRIBUTE name="Folder" value="dhg.hospitalprinter\Deploy_Tools\Setup.aip.cache"/>
   </COMPONENT>
   <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
     <ROW Path="&lt;AI_DICTS&gt;ui.ail"/>
