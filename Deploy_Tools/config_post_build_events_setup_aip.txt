@@ -1,4 +1,0 @@
-Command: powershell.exe 
-Arguments: -windowstyle hidden -ExecutionPolicy Bypass -NoProfile -NonInteractive -File "[|AI_BUILD_OUTPUT_FOLDER]\..\compressRar.ps1" -SourcePathFile "[|AI_BUILD_OUTPUT_FILE]" -ExeName "HospitalAdmin.exe"
-
-Lưu ý: "HospitalAdmin.exe" ==> Đây là tập tin sẽ lấy version khi nén file

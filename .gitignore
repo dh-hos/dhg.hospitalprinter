@@ -4,3 +4,5 @@
 Deploy_Tools/Setup.Adv-SetupFiles/*
 Deploy_Tools/Setup.aip.cache/*
 Deploy_Tools/*SetupFiles/*
+Deploy_Tools/BuildCaches/*
+Deploy_Tools/OutputFiles/*
