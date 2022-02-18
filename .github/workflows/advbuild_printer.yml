@@ -1,0 +1,17 @@
+name: Checkout then build AdvancedInstaller
+on: [push]
+jobs:
+   hello_world_job:
+      runs-on: localDH-dhg-hospitalprinterexe
+      env:
+         GITHUBREPOSITORYSECRETSDEFAULTRTDB: ${{ secrets.GITHUBREPOSITORYSECRETSDEFAULTRTDB }}
+      name: Checkout then build AdvancedInstaller
+      steps:
+         - name: Check GITHUBREPOSITORYSECRETSDEFAULTRTDB
+           run: echo "$env:GITHUBREPOSITORYSECRETSDEFAULTRTDB"
+         - name: Checkout - pull git repo
+           uses: actions/checkout@v2
+
+         - name: Powershell get data to build
+           run: .\dist\advbuild_printer.ps1
+           shell: powershell
