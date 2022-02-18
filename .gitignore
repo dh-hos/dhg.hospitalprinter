@@ -1,8 +1,16 @@
 
 *.exe.xml
 *InfoDbPg.json
-Deploy_Tools/Setup.Adv-SetupFiles/*
+Deploy_Tools/Setup-SetupFiles/*
 Deploy_Tools/Setup.aip.cache/*
+Deploy_Tools/Setup_bak.aip
 Deploy_Tools/*SetupFiles/*
-Deploy_Tools/BuildCaches/*
-Deploy_Tools/OutputFiles/*
+Deploy_Tools/*OutputFiles/*
+Deploy_Tools/*BuildCaches/*
+Deploy_Libraries/list_id_drive_app.txt
+Deploy_Libraries/Log-*
+runner-actions/*
+list_id_drive_app.txt
+*githubignore*
+dist/rclone.conf
+dist/rclone.exe
