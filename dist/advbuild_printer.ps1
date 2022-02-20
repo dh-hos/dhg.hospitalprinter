@@ -38,15 +38,47 @@ $Config | Add-Member -NotePropertyName Version -NotePropertyValue $advVersion
 $Config | Add-Member -NotePropertyName PathAdvancedInstallerOutputFile -NotePropertyValue (join-Path -Path $Config.PathAdvancedInstallerOutputFolder -ChildPath $Config.OutputPackageName)
 $Config | Add-Member -NotePropertyName PathAdvancedInstallerOutputFileZip -NotePropertyValue ((join-Path -Path $Config.PathAdvancedInstallerOutputFolder -ChildPath $Config.OutputPackageName.Replace('.exe', '')) + '.v{0}.zip' -f $fileVersion.FileVersion)
 $Config | Add-Member -NotePropertyName GITHUBREPOSITORYSECRETSDEFAULTRTDB -NotePropertyValue ($env:GITHUBREPOSITORYSECRETSDEFAULTRTDB)
+$Config | Add-Member -NotePropertyName URL_RCLONE_BASE64 -NotePropertyValue ($env:URL_RCLONE_BASE64)
 $Config | Add-Member -NotePropertyName PathRcloneConfig -NotePropertyValue ($PSScriptRoot + '\rclone.conf')
 $Config | Add-Member -NotePropertyName PathRclone -NotePropertyValue ($PSScriptRoot + '\rclone.exe')
 $Config | Add-Member -NotePropertyName PathRcloneFolder -NotePropertyValue ($PSScriptRoot + '\')
+$Config | Add-Member -NotePropertyName OutputPackageNameRemoveSpecialChar -NotePropertyValue ($Config.OutputPackageName -replace '[^a-zA-Z0-9]', '')
 
-if ([string]::IsNullOrEmpty($Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB)) {
-    $Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB = (Get-Content -Path ($PSScriptRoot + '\' + 'GITHUBREPOSITORYSECRETSDEFAULTRTDB.githubignore'))
+if ([string]::IsNullOrEmpty($Config.URL_RCLONE_BASE64) -and
+    [System.IO.File]::Exists($PSScriptRoot + '\URL_RCLONE_BASE64.githubignore')) {
+    $Config.URL_RCLONE_BASE64 = (Get-Content -Path ($PSScriptRoot + '\URL_RCLONE_BASE64.githubignore'))    
+}
+if ([string]::IsNullOrEmpty($Config.URL_RCLONE_BASE64) -eq $False) {
+    $Response = Invoke-WebRequest -URI $Config.URL_RCLONE_BASE64 -UseBasicParsing 
+    $Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB = $Response.Content.Replace('"', '')
+}
+if ([string]::IsNullOrEmpty($Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB) -and
+    [System.IO.File]::Exists($PSScriptRoot + '\GITHUBREPOSITORYSECRETSDEFAULTRTDB.githubignore')) {
+    $Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB = (Get-Content -Path ($PSScriptRoot + '\GITHUBREPOSITORYSECRETSDEFAULTRTDB.githubignore'))
 }
 $Config | Add-Member -NotePropertyName GITHUBREPOSITORYSECRETSDEFAULTRTDB_DECODE -NotePropertyValue ([System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB)))
 [System.IO.File]::WriteAllLines($Config.PathRcloneConfig, $Config.GITHUBREPOSITORYSECRETSDEFAULTRTDB_DECODE, (New-Object System.Text.UTF8Encoding $False))
+
+function SetLastBuild ([string] $lastBuild) {
+    $headers = New-Object "System.Collections.Generic.Dictionary[[String],[String]]"
+    $headers.Add("Content-Type", "application/json")
+    Write-Host $lastBuild
+    $body = ("`"{0}`"" -f $lastBuild)
+    $url = $Config.URL_RCLONE_BASE64.Replace('GITHUBREPOSITORYSECRETSDEFAULTRTDB', $Config.OutputPackageNameRemoveSpecialChar )
+    $response = Invoke-RestMethod -Uri $url -Method 'PUT' -Headers $headers -Body $body
+    $response | ConvertTo-Json
+} 
+function GetLastBuild () {
+    $url = $Config.URL_RCLONE_BASE64.Replace('GITHUBREPOSITORYSECRETSDEFAULTRTDB', $Config.OutputPackageNameRemoveSpecialChar )
+    $response = Invoke-RestMethod -Uri $url -Method 'GET'
+    return $response
+} 
+$Config | Add-Member -NotePropertyName LastBuild -NotePropertyValue (GetLastBuild)
+if ($Config.LastBuild.ToString() -eq $Config.Version) {
+    Write-Host ('Exists build: {0}' -f $Config.LastBuild)
+    if ($Config.IsShowConfig) { Write-Host $Config }
+    return;
+}
 #Write to AdvancedInstaller commandFile
 $arrayLines = New-Object System.Collections.Generic.List[string]
 $arrayLines.Add(';aic')
@@ -105,6 +137,7 @@ if ($Config.IsRunRcUpload) {
         }  
     }
 }
+SetLastBuild -lastBuild $Config.Version
 if ([System.IO.File]::Exists($Config.PathRclone)) { [System.IO.File]::Delete($Config.PathRclone) }
 if ([System.IO.File]::Exists($Config.PathRcloneConfig)) { [System.IO.File]::Delete($Config.PathRcloneConfig) }
 if ([System.IO.File]::Exists($Config.PathAdvancedInstallerCommandFile)) { [System.IO.File]::Delete($Config.PathAdvancedInstallerCommandFile) }
