@@ -84,6 +84,14 @@ $arrayLines = New-Object System.Collections.Generic.List[string]
 $arrayLines.Add(';aic')
 $arrayLines.Add('SetVersion {0}' -f $Config.Version)
 $arrayLines.Add('SetProperty ExecuteVersion="{0}"' -f $fileVersion.FileVersion)
+#ProductDetail
+try {
+    foreach ($pro in $Config.ProductDetail.PSObject.Properties) {
+        $arrayLines.Add('SetProperty ' + $pro.Name + '="{0}"' -f $pro.Value)
+    }
+}
+catch {}
+#End ProductDetail
 $arrayLines.Add('SetOutputLocation -buildname DefaultBuild -path {0}' -f $Config.PathAdvancedInstallerOutputFolder)
 $arrayLines.Add('SetPackageName {0} -buildname DefaultBuild' -f $Config.OutputPackageName)
 if ($Config.IsAddFileAPPDIR) {
@@ -112,7 +120,12 @@ $arrayLines.Add('Save')
 $arrayLines.Add('Rebuild')
 $arrayLines | Out-File -FilePath $Config.PathAdvancedInstallerCommandFile
 
-&AdvancedInstaller.com /execute $Config.PathAdvancedInstallerProjectFile $Config.PathAdvancedInstallerCommandFile 
+#Build by Adv
+$advArgument = '/execute ' + $Config.PathAdvancedInstallerProjectFile + ' ' + $Config.PathAdvancedInstallerCommandFile
+Start-Process -Wait -FilePath $Config.PathAdvancedInstallerExecuter -ArgumentList $advArgument
+#End build adv
+
+
 Write-Host ('CompressZip {0}=>{1}' -f $Config.PathAdvancedInstallerOutputFile, $Config.PathAdvancedInstallerOutputFileZip)
 compress-archive -path $Config.PathAdvancedInstallerOutputFile -destinationpath ($Config.PathAdvancedInstallerOutputFileZip) -Force
 if ($Config.IsRunRcUpload) {    

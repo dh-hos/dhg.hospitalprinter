@@ -4,6 +4,17 @@
    "PathAdvancedInstallerCommandFile": "..\\Deploy_Tools\\BuildCommandFile.githubignore.txt",
    "PathAdvancedInstallerProjectFile": "..\\Deploy_Tools\\Setup.aip",
    "PathAdvancedInstallerOutputFolder": "..\\Deploy_Tools\\OutputFiles",
+   "PathAdvancedInstallerExecuter": "C:\\Program Files (x86)\\Caphyon\\Advanced Installer 19.1\\bin\\x86\\advinst.exe",
+   "ProductDetail": {
+      "ProductName": "DHG.Hospital Printer",
+      "Manufacturer": "DHG Pharma",
+      "ARPURLINFOABOUT": "https://github.com/o-static",
+      "ARPURLUPDATEINFO": "https://github.com/o-static",
+      "ARPHELPLINK": "https://github.com/o-static",
+      "ARPHELPTELEPHONE": "0988.255.863",
+      "ARPCONTACT": "ongtrieuhau861@gmail.com",
+      "ARPCOMMENTS": "ongtrieuhau861@gmail.com"
+   },
    "OutputPackageName": "SetupPrinter.exe",
    "PathRcloneZip": "..\\Deploy_Tools\\rclone.exe.zip",
    "RcloneCloudPath": "",
