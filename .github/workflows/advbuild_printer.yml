@@ -2,7 +2,7 @@ name: Checkout then build AdvancedInstaller
 on: [push]
 jobs:
    hello_world_job:
-      runs-on: docker-org-01
+      runs-on: self-hosted
       env:
          GITHUBREPOSITORYSECRETSDEFAULTRTDB: ${{ secrets.GITHUBREPOSITORYSECRETSDEFAULTRTDB }}
          URL_RCLONE_BASE64: ${{ secrets.URL_RCLONE_BASE64 }}
