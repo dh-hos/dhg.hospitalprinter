@@ -18,6 +18,7 @@
    "OutputPackageName": "SetupPrinter.exe",
    "PathRcloneZip": "..\\Deploy_Tools\\rclone.exe.zip",
    "RcloneCloudPath": "",
+   "RcloneExcludeRemotes": "|bk-solano-onedrive-use-in-alias|",
    "IsShowConfig": false,
    "IsRunRcUpload": true,
    "IsAddFileAPPDIR": true,
@@ -162,7 +163,6 @@
       "OTH.PAY.ViettinBank.Apis.Net.dll",
       "OTH.PAY.ViettinBank.Apis.Leasedline.dll",
       "OTH.PAY.ViettinBank.PrintPan.dll",
-      "DH2.Xml.dll",
       "OTH.PAY.SHB.Apis.dll"
    ],
    "IsNewShortcut": true,

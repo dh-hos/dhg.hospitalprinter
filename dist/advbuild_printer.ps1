@@ -140,12 +140,15 @@ if ($Config.IsRunRcUpload) {
         Get-Content $Config.PathRcloneConfig | ForEach-Object {
             if ($_.StartsWith('[') -and $_.EndsWith(']')) {
                 $uploadName = $_.Replace('[', '').Replace(']', '')
-                $Config.RcloneArgumentList = '' 
-                $Config.RcloneArgumentList += 'copy "' + $Config.PathAdvancedInstallerOutputFileZip + '" ' + $uploadName + ':"' + $Config.RcloneCloudPath + '"'
-                $Config.RcloneArgumentList += ' --config "' + $Config.PathRcloneConfig + '"'
-                $Config.RcloneArgumentList += ' --auto-confirm'
-                Write-Host ('Rclone upload: {0}=>{1}' -f $Config.PathAdvancedInstallerOutputFileZip, $uploadName)
-                Start-Process -WindowStyle Hidden -Wait -FilePath $Config.PathRclone -ArgumentList $Config.RcloneArgumentList
+                #add check contains remote to use alias
+                if (-not($Config.RcloneExcludeRemotes.ToLower().Contains($uploadName.ToLower()))) {
+                    $Config.RcloneArgumentList = '' 
+                    $Config.RcloneArgumentList += 'copy "' + $Config.PathAdvancedInstallerOutputFileZip + '" ' + $uploadName + ':"' + $Config.RcloneCloudPath + '"'
+                    $Config.RcloneArgumentList += ' --config "' + $Config.PathRcloneConfig + '"'
+                    $Config.RcloneArgumentList += ' --auto-confirm'
+                    Write-Host ('Rclone upload: {0}=>{1}' -f $Config.PathAdvancedInstallerOutputFileZip, $uploadName)
+                    Start-Process -WindowStyle Hidden -Wait -FilePath $Config.PathRclone -ArgumentList $Config.RcloneArgumentList
+                }
             }
         }  
     }
