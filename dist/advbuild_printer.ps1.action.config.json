@@ -143,7 +143,6 @@
       "OTH.XControl.dll",
       "OTH.XForms.dll",
       "OTH.XReports.dll",
-      "OTHDrive.dll",
       "Logo.ico",
       "OTH.XForms.v.1.0.dll",
       "OTH.Entity.v.1.0.dll",
@@ -163,7 +162,9 @@
       "OTH.PAY.ViettinBank.Apis.Net.dll",
       "OTH.PAY.ViettinBank.Apis.Leasedline.dll",
       "OTH.PAY.ViettinBank.PrintPan.dll",
-      "OTH.PAY.SHB.Apis.dll"
+      "OTH.PAY.SHB.Apis.dll",
+      "System.Net.Http.dll",
+      "System.Net.Http.Formatting.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
