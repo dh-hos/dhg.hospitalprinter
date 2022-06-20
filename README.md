@@ -13,4 +13,7 @@
   
 </div>
 
-## Nội dung cập nhật [![View](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2001-blue?logo=googledrive)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
+## Nội dung cập nhật
+<div align="center">
+  [![View](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2001-blue?logo=googledrive)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
+</div>
