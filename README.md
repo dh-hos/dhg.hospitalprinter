@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/dh-hos/dhg.hospitalprinter/main/Deploy_Tools/Logo.ico" alt="Simple Icons" width=70>
-  <h1>DHG.Hospital Printer</h1>
+  <h2>DHG.Hospital Printer</h2>
 </div>
 
 ## Tập tin cài đặt (Setup Files)
