@@ -1,4 +1,4 @@
-# [DHG.Hospital Printer](https://github.com/dh-hos) [![Build Status](https://raw.githubusercontent.com/dh-hos/dhg.hospitalprinter/main/Deploy_Tools/github-readme.png)](https://drive.google.com/drive/u/0/folders/1RbeOCD7xo4ykxMIYoWIIFpa4CGyEFK0H)
+# [DHG.Hospital Printer](https://github.com/dh-hos) [![Build Status](https://img.shields.io/badge/Download-Google%2001-blue?logo=googledrive)](https://drive.google.com/drive/u/0/folders/1RbeOCD7xo4ykxMIYoWIIFpa4CGyEFK0H)
 
 
 ### dhg.hospitalprinter. Tải bản cập nhật tại
