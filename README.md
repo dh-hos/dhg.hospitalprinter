@@ -1,4 +1,4 @@
-# [DHG.Hospital Printer](https://github.com/dh-hos) [![Build Status](https://cdn-icons-png.flaticon.com/512/5968/5968523.png)](https://drive.google.com/drive/u/0/folders/1RbeOCD7xo4ykxMIYoWIIFpa4CGyEFK0H)
+# [DHG.Hospital Printer](https://github.com/dh-hos) [![Build Status](https://github.com/google/material-design-icons/raw/master/symbols/web/10k/materialsymbolssharp/10k_20px.svg)](https://drive.google.com/drive/u/0/folders/1RbeOCD7xo4ykxMIYoWIIFpa4CGyEFK0H)
 
 
 ### dhg.hospitalprinter. Tải bản cập nhật tại
