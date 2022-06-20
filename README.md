@@ -16,6 +16,6 @@
 ## Nội dung cập nhật
 <div align="center">
   
-  [![View](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2001-blue?logo=googledrive)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
+  [![View](https://img.shields.io/badge/Xem-n%E1%BB%99i%20dung%20c%E1%BA%ADp%20nh%E1%BA%ADt-informational--informational)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
 
 </div>
