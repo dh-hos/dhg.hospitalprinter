@@ -16,6 +16,6 @@
 ## Nội dung cập nhật
 <div align="center">
   
-  [![View](https://img.shields.io/badge/Xem-n%E1%BB%99i%20dung%20c%E1%BA%ADp%20nh%E1%BA%ADt-informational--informational)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
+  [![View](https://img.shields.io/badge/-Xem%20chi%20ti%E1%BA%BFt%20c%E1%BA%ADp%20nh%E1%BA%ADt-informational?logo=githubpages)](https://github.com/oth-dhghospital/dhg.hospitalprinter/commits/main)
 
 </div>
