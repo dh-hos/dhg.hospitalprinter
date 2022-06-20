@@ -1,4 +1,4 @@
-# [DHG.Hospital Printer]([http://grapesjs.com](https://github.com/dh-hos))
+# [DHG.Hospital Printer]([http://grapesjs.com](https://github.com/dh-hos)) [![Build Status](https://github.com/artf/grapesjs/actions/workflows/build.yml/badge.svg)](https://github.com/artf/grapesjs/actions)
 
 ### dhg.hospitalprinter. Tải bản cập nhật tại
 
