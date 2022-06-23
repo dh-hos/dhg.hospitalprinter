@@ -1,4 +1,4 @@
-# DHG.Hospital Printer - Thông tin cập nhật
+# DHG.Hospital Printer - Thông tin cập nhật (✨: Chức năng mới, 🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 ##### [v3.22.0623.2]()
 
