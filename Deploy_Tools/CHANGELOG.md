@@ -1,6 +1,6 @@
 ### DHG.Hospital Printer - Thông tin cập nhật
 
-<div align="center" style="font-size: small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
+<div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
 ##### [v3.22.0623.2]()
 
