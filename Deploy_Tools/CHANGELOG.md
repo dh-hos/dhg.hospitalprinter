@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0623.5]()
+
+-  ✨: Bổ sung chức năng lập phiếu thu bằng printer đối với mabvbh: 92016
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/39
+
 ##### [v3.22.0623.2]()
 
 -  ✨ Fix lỗi không build file settup cho phiên bản 3.22.0623.1
