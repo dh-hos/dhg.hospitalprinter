@@ -7,4 +7,4 @@
 ##### v3.22.0623.1
 
 -  🙏 Fix cảnh báo kiểm tra đồng chi tra trước khi in
--  🐛 #35
+-  🐛 [#35](https://github.com/dh-hos/dhg.hospitalprinter/issues/35)
