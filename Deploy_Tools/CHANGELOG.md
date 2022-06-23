@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0623.6]()
+
+-  ✨: Chỉnh cách tổng chi phí thuộc BHYT để tính MUC_HUONG không dựa vào TYLE_TT, tính trên tổng THANH_TIEN
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/20
+
 ##### [v3.22.0623.5]()
 
 -  ✨: Bổ sung chức năng lập phiếu thu bằng printer đối với mabvbh: 92016
