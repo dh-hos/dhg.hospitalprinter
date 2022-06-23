@@ -18,6 +18,6 @@
 
 <div align="center">
   
-  [![View](https://img.shields.io/badge/-Xem%20chi%20ti%E1%BA%BFt%20c%E1%BA%ADp%20nh%E1%BA%ADt-informational?logo=github)](https://github.com/dh-hos/dhg.hospitalprinter/commits/main)
+  [![View](https://img.shields.io/badge/-Xem%20chi%20ti%E1%BA%BFt%20c%E1%BA%ADp%20nh%E1%BA%ADt-informational?logo=github)](https://github.com/dh-hos/dhg.hospitalprinter/blob/main/Deploy_Tools/CHANGELOG.md)
 
 </div>
