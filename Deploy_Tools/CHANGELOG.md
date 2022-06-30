@@ -1,6 +1,11 @@
-### DHG.Hospital Printer - Thông tin cập nhật
+﻿### DHG.Hospital Printer - Thông tin cập nhật
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
+
+##### [v3.22.0630.1]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/41
+-  🐛: khi in bảng kê đối tượng miễn phí báo lỗi
 
 ##### [v3.22.0623.6]()
 
