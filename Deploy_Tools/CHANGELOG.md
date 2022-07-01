@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0701.1]()
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/37
+-  🐛: Toa xuất viện đã in vẫn hiển thị toa chưa in nhưng không thấy thuốc
+
 ##### [v3.22.0630.1]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/41
