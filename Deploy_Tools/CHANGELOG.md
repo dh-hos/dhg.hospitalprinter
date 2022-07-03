@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0703.1]()
+
+-  ✨: Bổ sung chức năng kiểm tra ngày kết quả trong XML3 (NGAY_KQ) nếu lớn hơn thời gian kết thúc không cho phép in phiếu thanh toán.
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/11
+
 ##### [v3.22.0701.1]()
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/37

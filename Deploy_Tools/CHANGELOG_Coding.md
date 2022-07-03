@@ -10,3 +10,6 @@
 
 -  🐛: Toa xuất viện đã in vẫn hiển thị toa chưa in nhưng không thấy thuốc [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/37 [OK]
+
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/11 [OK]
+-  ✨: Bổ sung chức năng kiểm tra ngày kết quả trong XML3 (NGAY_KQ) nếu lớn hơn thời gian kết thúc không cho phép in phiếu thanh toán. [OK]
