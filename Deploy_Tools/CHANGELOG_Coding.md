@@ -13,3 +13,7 @@
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/11 [OK]
 -  ✨: Bổ sung chức năng kiểm tra ngày kết quả trong XML3 (NGAY_KQ) nếu lớn hơn thời gian kết thúc không cho phép in phiếu thanh toán. [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/42 [OK]
+-  🐛: Kiểm tra tránh trường hợp trùng đối với chứng từ đã lập phiếu thu (khi bắt đầu lưu chứng từ) [OK]
+-  ✨: Cải tiến tốc độ khi lưu chứng từ mới [OK]

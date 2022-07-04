@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0704.1]()
+
+-  ✨: Cải tiến tốc độ khi lưu chứng từ mới
+-  🐛: Kiểm tra tránh trường hợp trùng đối với chứng từ đã lập phiếu thu (khi bắt đầu lưu chứng từ)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/42
+
 ##### [v3.22.0703.1]()
 
 -  ✨: Bổ sung chức năng kiểm tra ngày kết quả trong XML3 (NGAY_KQ) nếu lớn hơn thời gian kết thúc không cho phép in phiếu thanh toán.
