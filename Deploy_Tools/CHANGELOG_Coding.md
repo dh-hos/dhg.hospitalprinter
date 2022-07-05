@@ -17,3 +17,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/42 [OK]
 -  🐛: Kiểm tra tránh trường hợp trùng đối với chứng từ đã lập phiếu thu (khi bắt đầu lưu chứng từ) [OK]
 -  ✨: Cải tiến tốc độ khi lưu chứng từ mới [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/43 [OK]
+-  🐛: Fix Hiển thị thông báo trống - chức năng in phiếu KCB [OK]

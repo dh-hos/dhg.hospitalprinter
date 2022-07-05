@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0705.1]()
+
+-  🐛: Fix Hiển thị thông báo trống - chức năng in phiếu KCB
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/43
+
 ##### [v3.22.0704.1]()
 
 -  ✨: Cải tiến tốc độ khi lưu chứng từ mới
