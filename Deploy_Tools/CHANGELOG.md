@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0706.1]()
+
+-  🐛: [Hóa đơn điện tử nhà thuốc] không cho lập hóa đơn khi chưa hoàn thành phiếu thu
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/44
+-  ✨: Xử lý Trường hợp bật cảnh báo cập nhật giờ kết thúc của hồ sơ, nếu không đồng ý cập nhật sẽ không tiếp tục in phiếu thanh toán
+
 ##### [v3.22.0705.1]()
 
 -  🐛: Fix Hiển thị thông báo trống - chức năng in phiếu KCB
