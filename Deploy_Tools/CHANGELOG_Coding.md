@@ -24,3 +24,6 @@
 -  ✨: Xử lý Trường hợp bật cảnh báo cập nhật giờ kết thúc của hồ sơ, nếu không đồng ý cập nhật sẽ không tiếp tục in phiếu thanh toán [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/44 [OK]
 -  🐛: [Hóa đơn điện tử nhà thuốc] không cho lập hóa đơn khi chưa hoàn thành phiếu thu [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/45 [OK]
+-  🐛: Fix Hóa đơn điện tử nhà thuốc khi vừa lập xong thì không in được [OK]

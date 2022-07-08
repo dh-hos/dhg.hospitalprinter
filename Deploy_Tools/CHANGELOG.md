@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0708.1]()
+
+-  🐛: Fix Hóa đơn điện tử nhà thuốc khi vừa lập xong thì không in được
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/45
+
 ##### [v3.22.0706.1]()
 
 -  🐛: [Hóa đơn điện tử nhà thuốc] không cho lập hóa đơn khi chưa hoàn thành phiếu thu
