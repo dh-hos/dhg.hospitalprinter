@@ -27,3 +27,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/45 [OK]
 -  🐛: Fix Hóa đơn điện tử nhà thuốc khi vừa lập xong thì không in được [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/46 [OK]
+-  🐛: Fix Printer in bảng kê bị treo thông báo đang xử lý in ấn đối với xác nhận bệnh án ngoại trú [OK]

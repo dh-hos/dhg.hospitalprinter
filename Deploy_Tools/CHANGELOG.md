@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0708.2]()
+
+-  🐛: Fix Printer in bảng kê bị treo thông báo đang xử lý in ấn đối với xác nhận bệnh án ngoại trú
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/46
+
 ##### [v3.22.0708.1]()
 
 -  🐛: Fix Hóa đơn điện tử nhà thuốc khi vừa lập xong thì không in được
