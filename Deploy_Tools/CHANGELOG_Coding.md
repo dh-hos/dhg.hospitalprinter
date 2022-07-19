@@ -30,3 +30,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/46 [OK]
 -  🐛: Fix Printer in bảng kê bị treo thông báo đang xử lý in ấn đối với xác nhận bệnh án ngoại trú [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/47 [OK]
+-  🐛: Fix Bệnh án ngoại trú thanh toán theo đợt khi in bảng kê không trừ kho và đánh dấu đã in - Form in phiếu khám chữa bệnh mới [OK]
