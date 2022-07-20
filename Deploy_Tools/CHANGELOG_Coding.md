@@ -33,3 +33,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/47 [OK]
 -  🐛: Fix Bệnh án ngoại trú thanh toán theo đợt khi in bảng kê không trừ kho và đánh dấu đã in - Form in phiếu khám chữa bệnh mới [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/51 [OK]
+-  🐛: Fix lỗi không thể hiện cảnh báo có phát sinh đồng chi trả khi in phiếu 01 [OK]
