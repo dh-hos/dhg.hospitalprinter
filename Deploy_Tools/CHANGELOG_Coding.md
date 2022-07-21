@@ -36,3 +36,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/51 [OK]
 -  🐛: Fix lỗi không thể hiện cảnh báo có phát sinh đồng chi trả khi in phiếu 01 [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
+-  🐛: Bổ sung license mabvbh=77150 [OK]
