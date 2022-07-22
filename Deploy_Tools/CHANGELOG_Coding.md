@@ -39,3 +39,6 @@
 
 -  #️⃣: https://github.com/dh-hos/DH.HIS/issues/2 [OK]
 -  🐛: Bổ sung license mabvbh=77150 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/53 [OK]
+-  🐛: Fix thông báo sai, khi bệnh nhân chưa tới ngưỡng thanh toán đồng chi trả [OK]

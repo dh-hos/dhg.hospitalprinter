@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0722.1]()
+
+-  🐛: Fix thông báo sai, khi bệnh nhân chưa tới ngưỡng thanh toán đồng chi trả
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/53
+
 ##### [v3.22.0721.1]()
 
 -  🐛: Bổ sung license mabvbh=77150
