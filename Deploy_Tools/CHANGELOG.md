@@ -2,6 +2,17 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0923.4]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
+##### [v3.22.0923.3]()
+
+-  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có nhiều toa thuốc (Hệ thống -> Cấu hình tham số -> Cảnh báo số lượng toa thuốc khi in phiếu KCB)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/66
+
 ##### [v3.22.0722.1]()
 
 -  🐛: Fix thông báo sai, khi bệnh nhân chưa tới ngưỡng thanh toán đồng chi trả

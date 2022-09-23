@@ -42,3 +42,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/53 [OK]
 -  🐛: Fix thông báo sai, khi bệnh nhân chưa tới ngưỡng thanh toán đồng chi trả [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/66 [OK]
+-  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có nhiều toa thuốc (Hệ thống -> Cấu hình tham số -> Cảnh báo số lượng toa thuốc khi in phiếu KCB) [OK]
