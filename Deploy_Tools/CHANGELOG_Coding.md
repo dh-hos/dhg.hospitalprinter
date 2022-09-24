@@ -45,3 +45,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/66 [OK]
 -  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có nhiều toa thuốc (Hệ thống -> Cấu hình tham số -> Cảnh báo số lượng toa thuốc khi in phiếu KCB) [OK]
+
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/12 [OK]
+-  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT [OK]

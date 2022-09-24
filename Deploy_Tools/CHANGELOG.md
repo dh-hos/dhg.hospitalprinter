@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0924.4]()
+
+-  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/12
+
 ##### [v3.22.0924.3]()
 
 -  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có nhiều toa thuốc (Hệ thống -> Cấu hình tham số -> Cảnh báo số lượng toa thuốc khi in phiếu KCB)
