@@ -33,7 +33,7 @@ catch {
 }
 #Find version Execute Application in Config
 $fileVersion = [System.Diagnostics.FileVersionInfo]::GetVersionInfo($Config.PathExecuteVersion)
-$advVersion = '{0}.{1}.{2}{3}.{3}' -f $fileVersion.FileMajorPart, $fileVersion.FileMinorPart, $fileVersion.FileBuildPart.toString().PadLeft(4, '0'), $fileVersion.FilePrivatePart
+$advVersion = '{0}.{1}.{2}.{3}' -f $fileVersion.FileMajorPart, $fileVersion.FileMinorPart, $fileVersion.FileBuildPart.toString().PadLeft(4, '0'), $fileVersion.FilePrivatePart
 $Config | Add-Member -NotePropertyName Version -NotePropertyValue $advVersion
 $Config | Add-Member -NotePropertyName PathAdvancedInstallerOutputFile -NotePropertyValue (join-Path -Path $Config.PathAdvancedInstallerOutputFolder -ChildPath $Config.OutputPackageName)
 $Config | Add-Member -NotePropertyName PathAdvancedInstallerOutputFileZip -NotePropertyValue ((join-Path -Path $Config.PathAdvancedInstallerOutputFolder -ChildPath $Config.OutputPackageName.Replace('.exe', '')) + '.v{0}.zip' -f $fileVersion.FileVersion)
