@@ -54,3 +54,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/55 [OK]
 -  🐛: Xử lý loại bỏ trùng TEN_BENH và TEN_BENH_KEM_THEO trên phiếu 6556 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/56 [OK]
+-  🐛: Fix cảnh báo sai số tiền bệnh nhân đồng chi trả [OK]

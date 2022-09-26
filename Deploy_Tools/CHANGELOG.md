@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0926.3]()
+
+-  🐛: Fix cảnh báo sai số tiền bệnh nhân đồng chi trả
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/56
+
 ##### [v3.22.0926.2]()
 
 -  🐛: Xử lý loại bỏ trùng TEN_BENH và TEN_BENH_KEM_THEO trên phiếu 6556
