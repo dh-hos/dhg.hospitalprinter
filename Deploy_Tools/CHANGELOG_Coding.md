@@ -51,3 +51,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54 [OK]
 -  ✨: Thêm chức năng xuất thông tin bệnh nhân ra tivi áp dụng trường hợp 1 kho có nhiều quầy phát thuốc [Hướng dẫn thực hiện](../MoTaThayDoi/XuatTTBenhnhanRaTivi.md) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/55 [OK]
+-  🐛: Xử lý loại bỏ trùng TEN_BENH và TEN_BENH_KEM_THEO trên phiếu 6556 [OK]
