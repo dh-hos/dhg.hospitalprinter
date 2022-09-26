@@ -48,3 +48,6 @@
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/12 [OK]
 -  ✨: Thực hiện theo Mô tả thực hiện Thông tư 36/2021/TT-BYT [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54 [OK]
+-  ✨: Thêm chức năng xuất thông tin bệnh nhân ra tivi áp dụng trường hợp 1 kho có nhiều quầy phát thuốc [Hướng dẫn thực hiện](../MoTaThayDoi/XuatTTBenhnhanRaTivi.md) [OK]
