@@ -57,3 +57,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/56 [OK]
 -  🐛: Fix cảnh báo sai số tiền bệnh nhân đồng chi trả [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/59 [OK]
+-  🐛: Thực hiện kiểm tra in phiếu 01 trước khi cập nhật ngày giờ in phiếu [OK]

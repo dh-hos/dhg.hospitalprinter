@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0927.1]()
+
+-  🐛: Thực hiện kiểm tra in phiếu 01 trước khi cập nhật ngày giờ in phiếu
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/59
+
 ##### [v3.22.0926.3]()
 
 -  🐛: Fix cảnh báo sai số tiền bệnh nhân đồng chi trả
