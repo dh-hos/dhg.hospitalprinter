@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0927.4]()
+
+-  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có phát sinh thu tiền (luôn cảnh báo, cảnh báo khi chi phí chưa thu, thu tiền rồi thì không cảnh báo) ![](../MoTaThayDoi/HuongDan/cauhinh-canhbao-chiphiphatsinh.png)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/68
+
 ##### [v3.22.0927.3]()
 
 -  🐛: Fix sai cảnh báo sai tiền đồng chi trả đối với bệnh nhân có chi phí thuộc nguồn khác

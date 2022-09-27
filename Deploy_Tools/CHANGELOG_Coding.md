@@ -68,3 +68,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/67 [OK]
 -  🐛: Fix sai cảnh báo sai tiền đồng chi trả đối với bệnh nhân có chi phí thuộc nguồn khác [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/68 [OK]
+-  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có phát sinh thu tiền (luôn cảnh báo, cảnh báo khi chi phí chưa thu, thu tiền rồi thì không cảnh báo) ![](../MoTaThayDoi/HuongDan/cauhinh-canhbao-chiphiphatsinh.png) [OK]
