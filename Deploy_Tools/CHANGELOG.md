@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0927.3]()
+
+-  🐛: Fix sai cảnh báo sai tiền đồng chi trả đối với bệnh nhân có chi phí thuộc nguồn khác
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/67
+
 ##### [v3.22.0927.2]()
 
 -  🐛: https://github.com/dh-hos/dhg.hospitalprinter/issues/59#issuecomment-1258846397

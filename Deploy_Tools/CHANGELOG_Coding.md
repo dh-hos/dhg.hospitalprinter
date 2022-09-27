@@ -65,3 +65,6 @@
 -  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với trường hợp xác nhận in phiếu của bệnh án ngoại trú thanh toán đợt (luôn cho phép xác nhận in) [OK]
 -  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với những cận lâm sàng không thuộc phạm vi thanh toán BHYT [OK]
 -  🐛: https://github.com/dh-hos/dhg.hospitalprinter/issues/59#issuecomment-1258846397 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/67 [OK]
+-  🐛: Fix sai cảnh báo sai tiền đồng chi trả đối với bệnh nhân có chi phí thuộc nguồn khác [OK]
