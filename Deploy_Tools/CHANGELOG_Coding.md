@@ -71,3 +71,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/68 [OK]
 -  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có phát sinh thu tiền (luôn cảnh báo, cảnh báo khi chi phí chưa thu, thu tiền rồi thì không cảnh báo) ![](../MoTaThayDoi/HuongDan/cauhinh-canhbao-chiphiphatsinh.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/64 [OK]
+-  ✨: Tính sai số phút giữa thời gian in phiếu và thời gian đăng ký khám bệnh khi thực hiện in phiếu 6556 [OK]

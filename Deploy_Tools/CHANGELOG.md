@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0927.5]()
+
+-  ✨: Tính sai số phút giữa thời gian in phiếu và thời gian đăng ký khám bệnh khi thực hiện in phiếu 6556
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/64
+
 ##### [v3.22.0927.4]()
 
 -  ✨: Thêm cấu hình để tắt cảnh báo bệnh nhân có phát sinh thu tiền (luôn cảnh báo, cảnh báo khi chi phí chưa thu, thu tiền rồi thì không cảnh báo) ![](../MoTaThayDoi/HuongDan/cauhinh-canhbao-chiphiphatsinh.png)
