@@ -2,6 +2,13 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0927.2]()
+
+-  🐛: https://github.com/dh-hos/dhg.hospitalprinter/issues/59#issuecomment-1258846397
+-  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với những cận lâm sàng không thuộc phạm vi thanh toán BHYT
+-  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với trường hợp xác nhận in phiếu của bệnh án ngoại trú thanh toán đợt (luôn cho phép xác nhận in)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/61
+
 ##### [v3.22.0927.1]()
 
 -  🐛: Thực hiện kiểm tra in phiếu 01 trước khi cập nhật ngày giờ in phiếu
