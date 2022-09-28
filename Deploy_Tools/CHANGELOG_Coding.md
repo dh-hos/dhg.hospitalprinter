@@ -81,3 +81,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/58#issuecomment-1260306620 [OK]
 -  🐛: Lỗi In toa thuốc Than báo lỗi [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/64 [OK]
+-  🐛: Sai thời gian in phiếu [OK]

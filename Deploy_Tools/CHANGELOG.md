@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0928.2]()
+
+-  🐛: Sai thời gian in phiếu
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/64
+
 ##### [v3.22.0928.1]()
 
 -  🐛: Lỗi In toa thuốc Than báo lỗi
