@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.0928.1]()
+
+-  🐛: Lỗi In toa thuốc Than báo lỗi
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/58#issuecomment-1260306620
+
 ##### [v3.22.0927.6]()
 
 -  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với trường hợp xác nhận in phiếu của bệnh án ngoại trú thanh toán đợt (luôn cho phép xác nhận in)

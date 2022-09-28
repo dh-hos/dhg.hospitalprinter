@@ -78,3 +78,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/61 [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/61#issuecomment-1258979906 [OK]
 -  ✨: Không thực hiện kiểm tra Cận lâm sàng chưa thực hiện đối với trường hợp xác nhận in phiếu của bệnh án ngoại trú thanh toán đợt (luôn cho phép xác nhận in) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/58#issuecomment-1260306620 [OK]
+-  🐛: Lỗi In toa thuốc Than báo lỗi [OK]
