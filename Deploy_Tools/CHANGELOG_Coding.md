@@ -84,3 +84,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/64 [OK]
 -  🐛: Sai thời gian in phiếu [OK]
+
+-  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4 [OK]
+-  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP [OK]
