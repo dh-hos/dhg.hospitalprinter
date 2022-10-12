@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1012.2]()
+
+-  ✨: Bổ sung chức năng, in phiếu 01 trường hợp chọn option [Tất cả toa], với trạng thái bệnh nhân chưa in, vẫn in số thứ tự vào hệ thống thể hiện số thứ tự trên tivi
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54#issuecomment-1274207510
+
 ##### [v3.22.1012.1]()
 
 -  🐛: Fix lỗi không thể hiện được form thể hiện số thứ tự bệnh nhân ra tivi

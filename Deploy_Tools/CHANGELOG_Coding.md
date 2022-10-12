@@ -90,3 +90,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/73 [OK]
 -  🐛: Fix lỗi không thể hiện được form thể hiện số thứ tự bệnh nhân ra tivi [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54#issuecomment-1274207510 [OK]
+-  ✨: Bổ sung chức năng, in phiếu 01 trường hợp chọn option [Tất cả toa], với trạng thái bệnh nhân chưa in, vẫn in số thứ tự vào hệ thống thể hiện số thứ tự trên tivi [OK]
