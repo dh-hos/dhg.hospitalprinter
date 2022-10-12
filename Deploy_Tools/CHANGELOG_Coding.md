@@ -87,3 +87,6 @@
 
 -  #️⃣: https://github.com/dh-hos/DH.HIS/issues/4 [OK]
 -  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/73 [OK]
+-  🐛: Fix lỗi không thể hiện được form thể hiện số thứ tự bệnh nhân ra tivi [OK]

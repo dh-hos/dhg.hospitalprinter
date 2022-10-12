@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1012.1]()
+
+-  🐛: Fix lỗi không thể hiện được form thể hiện số thứ tự bệnh nhân ra tivi
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/73
+
 ##### [v3.22.0928.3]()
 
 -  ✨: Cập nhật bản quyền đối với Mã BV 87190 - BỆNH VIỆN DA LIỄU ĐỒNG THÁP

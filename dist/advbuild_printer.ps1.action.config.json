@@ -168,7 +168,8 @@
       "OTH.PAY.ViettinBank.QRCode.dll",
       "RestSharp.dll",
       "XtraRPT.dll",
-      "QRCoder.dll"
+      "QRCoder.dll",
+      "OTH.XForms.v.1.2.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {
