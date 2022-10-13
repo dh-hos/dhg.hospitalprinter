@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1013.1]()
+
+-  🐛: Không in được phiếu 01, nhưng vẫn thể hiện số thứ tự
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54#issuecomment-1275772044
+-  ✨: Thêm parameter donvi (Diễn giải quầy phát thuốc) thể hiện form in ra tivi ![](../MoTaThayDoi/Outtv/ThemPara-donvi-01.png)![](../MoTaThayDoi/Outtv/ThemPara-donvi-02.png)
+
 ##### [v3.22.1012.2]()
 
 -  ✨: Bổ sung chức năng, in phiếu 01 trường hợp chọn option [Tất cả toa], với trạng thái bệnh nhân chưa in, vẫn in số thứ tự vào hệ thống thể hiện số thứ tự trên tivi
