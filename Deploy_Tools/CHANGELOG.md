@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1018.1]()
+
+-  🐛: Lỗi không in được phiếu 01
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/76
+
 ##### [v3.22.1013.1]()
 
 -  🐛: Không in được phiếu 01, nhưng vẫn thể hiện số thứ tự

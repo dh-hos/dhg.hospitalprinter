@@ -97,3 +97,6 @@
 -  ✨: Thêm parameter donvi (Diễn giải quầy phát thuốc) thể hiện form in ra tivi ![](../MoTaThayDoi/Outtv/ThemPara-donvi-01.png)![](../MoTaThayDoi/Outtv/ThemPara-donvi-02.png) [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/54#issuecomment-1275772044 [OK]
 -  🐛: Không in được phiếu 01, nhưng vẫn thể hiện số thứ tự [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/76 [OK]
+-  🐛: Lỗi không in được phiếu 01 [OK]
