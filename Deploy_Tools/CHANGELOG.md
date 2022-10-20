@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1020.2]()
+
+-  🐛: Fix lỗi không in được phiếu 01 ![](../MoTaThayDoi/Errors/err-inphieu01.png)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/79
+
 ##### [v3.22.1020.1]()
 
 -  ✨: Xóa thông tin quầy phát thuốc và số thứ tự khi chọn bệnh nhân khác
