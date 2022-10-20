@@ -100,3 +100,7 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/76 [OK]
 -  🐛: Lỗi không in được phiếu 01 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/77 [OK]
+-  🐛: Thêm chức năng xuất xml vào thư mục cấu hình trên admin khi in phiếu 01 đối với mabvbh=87190 [OK]
+-  ✨: Xóa thông tin quầy phát thuốc và số thứ tự khi chọn bệnh nhân khác [OK]

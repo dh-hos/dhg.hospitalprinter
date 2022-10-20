@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1020.1]()
+
+-  ✨: Xóa thông tin quầy phát thuốc và số thứ tự khi chọn bệnh nhân khác
+-  🐛: Thêm chức năng xuất xml vào thư mục cấu hình trên admin khi in phiếu 01 đối với mabvbh=87190
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/77
+
 ##### [v3.22.1018.1]()
 
 -  🐛: Lỗi không in được phiếu 01
