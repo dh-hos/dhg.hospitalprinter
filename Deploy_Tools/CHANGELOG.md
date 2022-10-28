@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1028.1]()
+
+-  ✨: Bổ sung chức năng chọn máy in khi in phiếu thứ tự phát thuốc ![](../MoTaThayDoi/HuongDan/outtv-option-chon-printer-in-so-thu-tu.png)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/81
+
 ##### [v3.22.1020.2]()
 
 -  🐛: Fix lỗi không in được phiếu 01 ![](../MoTaThayDoi/Errors/err-inphieu01.png)

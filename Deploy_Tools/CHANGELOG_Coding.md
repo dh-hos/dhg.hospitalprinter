@@ -107,3 +107,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/79 [OK]
 -  🐛: Fix lỗi không in được phiếu 01 ![](../MoTaThayDoi/Errors/err-inphieu01.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/81 [OK]
+-  ✨: Bổ sung chức năng chọn máy in khi in phiếu thứ tự phát thuốc ![](../MoTaThayDoi/HuongDan/outtv-option-chon-printer-in-so-thu-tu.png) [OK]
