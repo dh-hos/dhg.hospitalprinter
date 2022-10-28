@@ -110,3 +110,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/81 [OK]
 -  ✨: Bổ sung chức năng chọn máy in khi in phiếu thứ tự phát thuốc ![](../MoTaThayDoi/HuongDan/outtv-option-chon-printer-in-so-thu-tu.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalservices/issues/12 [OK]
+-  ✨: Cải tiến chức năng xuất xml để gửi BHXH khi in phiếu tại module Printer: chỉ xuất xml để gửi BHXH khi cấu hình số lượng trang in phiếu 01 lớn hơn 0, để tránh tình trạng gửi xml nhiều lần trường hợp đã in phiếu 01 ở Prescription [OK]
