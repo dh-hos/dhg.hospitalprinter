@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1029.1]()
+
+-  ✨: Bổ sung thêm tùy chọn cho phép quản lý danh sách bệnh nhân BANT theo cấu hình kho cấp phát (cấu hình trên Danh mục Đối tượng trên module Admin)![](../MoTaThayDoi/HuongDan/bant-load-benhnhan-theokhocp-01.png)![](../MoTaThayDoi/HuongDan/bant-load-benhnhan-theokhocp-02.png)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/78
+
 ##### [v3.22.1028.2]()
 
 -  ✨: Cải tiến chức năng xuất xml để gửi BHXH khi in phiếu tại module Printer: chỉ xuất xml để gửi BHXH khi cấu hình số lượng trang in phiếu 01 lớn hơn 0, để tránh tình trạng gửi xml nhiều lần trường hợp đã in phiếu 01 ở Prescription
