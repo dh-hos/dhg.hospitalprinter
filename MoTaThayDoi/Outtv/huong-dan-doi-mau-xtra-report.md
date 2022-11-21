@@ -1,8 +1,8 @@
 ## Hướng dẫn thay đổi màu bệnh nhân trên tivi
 
-### Bước 1: Tạo script để thay đổi màu changeColorBeforePrint
+### Bước 1: Tạo script để thay đổi màu changeColorBeforePrint (Sử dụng 1 trong 2 script sau)
 
--  Script áp dụng toàn bộ ngay cột trạng thái (chỉ đúng khi thay đổi ngay cột trạng thái)
+-  Script áp dụng ngay cột trạng thái (các cột khác không có tác dụng)
 
 ```
 private void changeColorBeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e) {
@@ -17,7 +17,7 @@ private void changeColorBeforePrint(object sender, System.Drawing.Printing.Print
 }
 ```
 
--  Script áp dụng toàn bộ row (chỉ đúng khi thay đổi ngay cột trạng)
+-  Script áp dụng toàn bộ control thuộc dòng đang thể hiện
 
 ```
 private void changeColorBeforePrint(object sender, System.Drawing.Printing.PrintEventArgs e) {
