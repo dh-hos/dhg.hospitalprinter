@@ -116,3 +116,7 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/78 [OK]
 -  ✨: Bổ sung thêm tùy chọn cho phép quản lý danh sách bệnh nhân BANT theo cấu hình kho cấp phát (cấu hình trên Danh mục Đối tượng trên module Admin)![](../MoTaThayDoi/HuongDan/bant-load-benhnhan-theokhocp-01.png)![](../MoTaThayDoi/HuongDan/bant-load-benhnhan-theokhocp-02.png) [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/84 [OK]
+-  ✨: Thay đổi [hướng dẫn script hướng dẫn đổi màu trên tivi](../MoTaThayDoi/Outtv/huong-dan-doi-mau-xtra-report.md) [OK]
+-  ✨: Thêm phím nóng [F6] để hỗ trợ chức năng mời nhận thuốc [OK]
