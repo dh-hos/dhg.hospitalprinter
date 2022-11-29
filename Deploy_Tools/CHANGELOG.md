@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1129.1]()
+
+-  🐛: Fix lỗi sai số thứ tự khi bỏ chọn quầy phát thuốc mặc định
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/90
+
 ##### [v3.22.1121.1]()
 
 -  ✨: Thêm phím nóng [F6] để hỗ trợ chức năng mời nhận thuốc

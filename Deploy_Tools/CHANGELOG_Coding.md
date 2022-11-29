@@ -120,3 +120,6 @@
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/84 [OK]
 -  ✨: Thay đổi [hướng dẫn script hướng dẫn đổi màu trên tivi](../MoTaThayDoi/Outtv/huong-dan-doi-mau-xtra-report.md) [OK]
 -  ✨: Thêm phím nóng [F6] để hỗ trợ chức năng mời nhận thuốc [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/90 [OK]
+-  🐛: Fix lỗi sai số thứ tự khi bỏ chọn quầy phát thuốc mặc định [OK]
