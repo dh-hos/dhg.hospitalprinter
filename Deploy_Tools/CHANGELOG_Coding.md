@@ -123,3 +123,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/90 [OK]
 -  🐛: Fix lỗi sai số thứ tự khi bỏ chọn quầy phát thuốc mặc định [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/92 [OK]
+-  ✨: Thể hiện thanh toán QR đối với nhà thuốc (chỉ thể hiện trên tab chưa in) [OK]

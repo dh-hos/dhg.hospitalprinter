@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1202.1]()
+
+-  ✨: Thể hiện thanh toán QR đối với nhà thuốc (chỉ thể hiện trên tab chưa in)
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/92
+
 ##### [v3.22.1129.1]()
 
 -  🐛: Fix lỗi sai số thứ tự khi bỏ chọn quầy phát thuốc mặc định
