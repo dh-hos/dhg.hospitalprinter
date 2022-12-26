@@ -126,3 +126,7 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/92 [OK]
 -  ✨: Thể hiện thanh toán QR đối với nhà thuốc (chỉ thể hiện trên tab chưa in) [OK]
+
+-  ✨: Cập nhật bản quyền đối với Mã BV 92137; 77154 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/25 [OK]
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21 [OK]

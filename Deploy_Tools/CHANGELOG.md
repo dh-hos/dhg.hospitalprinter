@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.22.1226.1]()
+
+-  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/25
+-  ✨: Cập nhật bản quyền đối với Mã BV 92137; 77154
+
 ##### [v3.22.1202.1]()
 
 -  ✨: Thể hiện thanh toán QR đối với nhà thuốc (chỉ thể hiện trên tab chưa in)
