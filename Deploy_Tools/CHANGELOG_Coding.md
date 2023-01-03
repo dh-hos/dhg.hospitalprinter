@@ -130,3 +130,6 @@
 -  ✨: Cập nhật bản quyền đối với Mã BV 92137; 77154 [OK]
 -  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/25 [OK]
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21 [OK]
+
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/83 [OK]
+-  ✨: Bổ sung chức năng lập phiếu thu đối với nhà thuốc sử dụng hóa đơn điện tử cho mã bệnh viện 92006 [OK]

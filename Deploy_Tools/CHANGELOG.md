@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0104.1]()
+
+-  ✨: Bổ sung chức năng lập phiếu thu đối với nhà thuốc sử dụng hóa đơn điện tử cho mã bệnh viện 92006
+-  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/83
+
 ##### [v3.22.1226.1]()
 
 -  #️⃣: https://github.com/dh-hos/Mo-ta-he-thong/issues/21
