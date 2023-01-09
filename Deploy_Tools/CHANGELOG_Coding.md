@@ -133,3 +133,6 @@
 
 -  #️⃣: https://github.com/dh-hos/dhg.hospitalprinter/issues/83 [OK]
 -  ✨: Bổ sung chức năng lập phiếu thu đối với nhà thuốc sử dụng hóa đơn điện tử cho mã bệnh viện 92006 [OK]
+
+-  ✨: Cập nhật bản quyền đối với Mã BV 87192; 87196 [OK]
+-  #️⃣: https://github.com/dh-hos/dhg.hospitaladmin/issues/27 [OK]
