@@ -1,9 +1,10 @@
 ---
 name: Ghi nhận lỗi
 about: Mẫu ghi nhận thông tin chi tiết lỗi
-title: "Lỗi - "
-labels: Lỗi (bug)
+title: 'Lỗi - '
+labels: 2. Bình thường
 assignees: ongtrieuhau
+
 ---
 
 <div align="center">
