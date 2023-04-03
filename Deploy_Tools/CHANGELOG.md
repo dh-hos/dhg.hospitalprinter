@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0403.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/102>
+- ✨: Cập nhật dll fix lỗi sai thông tin tuổi trên form in toa nội trú
+
 ##### [v3.23.0403.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/102>
