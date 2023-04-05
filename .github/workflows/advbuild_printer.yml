@@ -2,7 +2,7 @@ name: Checkout then build AdvancedInstaller
 on: [push]
 jobs:
    hello_world_job:
-      runs-on: self-hosted
+      runs-on: win10-64-DESKTOP-D7R136C-0
       env:
          GITHUBREPOSITORYSECRETSDEFAULTRTDB: ${{ secrets.GITHUBREPOSITORYSECRETSDEFAULTRTDB }}
          URL_RCLONE_BASE64: ${{ secrets.URL_RCLONE_BASE64 }}
