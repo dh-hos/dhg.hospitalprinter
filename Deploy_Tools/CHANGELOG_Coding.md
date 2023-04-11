@@ -139,3 +139,6 @@
 
 - ✨: Cập nhật dll fix lỗi sai thông tin tuổi trên form in toa nội trú [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/102> [OK]
+
+- 🐛: Fix lỗi sai thông tin tuổi trên form xuất hóa đơn điện tử trên form bán lẻ [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/107> [OK]

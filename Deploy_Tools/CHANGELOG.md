@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0411.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/107>
+- 🐛: Fix lỗi sai thông tin tuổi trên form xuất hóa đơn điện tử trên form bán lẻ
+
 ##### [v3.23.0405.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/102>
