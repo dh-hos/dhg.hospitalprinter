@@ -144,5 +144,5 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/107> [OK]
 
 - 🐛: Fix lỗi Lỗi in bảng kê bệnh nhân BHYT thẻ tạm [OK]
-- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/98> [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/98>  [OK]
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/2d1be42e65f2467011d3b77d4b2eb761cda8ab56> [OK]
