@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0411.2]()
+
+- #️⃣: <https://github.com/dh-hos/oLibraries/commit/2d1be42e65f2467011d3b77d4b2eb761cda8ab56>
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/98>
+- 🐛: Fix lỗi Lỗi in bảng kê bệnh nhân BHYT thẻ tạm
+
 ##### [v3.23.0411.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/107>
