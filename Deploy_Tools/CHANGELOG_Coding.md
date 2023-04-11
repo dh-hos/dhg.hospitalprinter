@@ -146,3 +146,6 @@
 - 🐛: Fix lỗi Lỗi in bảng kê bệnh nhân BHYT thẻ tạm [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/98>  [OK]
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/2d1be42e65f2467011d3b77d4b2eb761cda8ab56> [OK]
+
+- 🐛: Fix Lỗi - Toa xuất bán lẻ đã thu tiền vẫn có thể chỉnh toa làm mất chi tiết phiếu thu, lỗi chỉnh thêm thuốc vào toa xuất bán lẻ. (Kiểm tra trạng thái đã thu trước khi chỉnh chứng từ) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/94> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0411.6]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/94>
+- 🐛: Fix Lỗi - Toa xuất bán lẻ đã thu tiền vẫn có thể chỉnh toa làm mất chi tiết phiếu thu, lỗi chỉnh thêm thuốc vào toa xuất bán lẻ. (Kiểm tra trạng thái đã thu trước khi chỉnh chứng từ)
+
 ##### [v3.23.0411.5]()
 
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/2d1be42e65f2467011d3b77d4b2eb761cda8ab56>
