@@ -169,7 +169,8 @@
       "RestSharp.dll",
       "XtraRPT.dll",
       "QRCoder.dll",
-      "OTH.XForms.v.1.2.dll"
+      "OTH.XForms.v.1.2.dll",
+      "DH.ChuKySo.dll"
    ],
    "IsNewShortcut": true,
    "AdvancedInstallerShortcut": {

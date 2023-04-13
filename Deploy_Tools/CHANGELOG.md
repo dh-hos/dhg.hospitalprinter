@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0413.2]()
+
+- #️⃣: <https://github.com/dh-hos/oLibraries/commit/7d9b09e7c5f93f82a58070279b90180ad6266404>
+- ✨: Cập nhật hỗ trợ in chữ ký số
+
 ##### [v3.23.0413.1]()
 
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/7d9b09e7c5f93f82a58070279b90180ad6266404>
