@@ -149,3 +149,6 @@
 
 - 🐛: Fix Lỗi - Toa xuất bán lẻ đã thu tiền vẫn có thể chỉnh toa làm mất chi tiết phiếu thu, lỗi chỉnh thêm thuốc vào toa xuất bán lẻ. (Kiểm tra trạng thái đã thu trước khi chỉnh chứng từ) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/94> [OK]
+>
+- ✨: Cập nhật hỗ trợ in chữ ký số [OK]
+- #️⃣: <https://github.com/dh-hos/oLibraries/commit/7d9b09e7c5f93f82a58070279b90180ad6266404> [OK]
