@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0418.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/105>
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/108>
+- ✨: Mở chức năng sử dụng hóa đơn điện tử cho nhà Thuốc trên Printer đối với mã bệnh viện: `79035` và `87190`
+
 ##### [v3.23.0413.2]()
 
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/7d9b09e7c5f93f82a58070279b90180ad6266404>

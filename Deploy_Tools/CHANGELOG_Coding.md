@@ -152,3 +152,7 @@
 >
 - ✨: Cập nhật hỗ trợ in chữ ký số [OK]
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/7d9b09e7c5f93f82a58070279b90180ad6266404> [OK]
+>
+- ✨: Mở chức năng sử dụng hóa đơn điện tử cho nhà Thuốc trên Printer đối với mã bệnh viện: `79035` và `87190` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/108> [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/105> [OK]
