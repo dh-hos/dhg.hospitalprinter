@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0421.1]()
+
+- #️⃣: <https://github.com/dh-hos/oLibraries/commit/67f75e6fd140cdf8962ce1bd3e57c5ab812c2d59>
+- 🐛: Fix lỗi in toa thuốc thang
+
 ##### [v3.23.0418.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/105>

@@ -156,3 +156,6 @@
 - ✨: Mở chức năng sử dụng hóa đơn điện tử cho nhà Thuốc trên Printer đối với mã bệnh viện: `79035` và `87190` [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/108> [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/105> [OK]
+>
+- 🐛: Fix lỗi in toa thuốc thang [OK]
+- #️⃣: <https://github.com/dh-hos/oLibraries/commit/67f75e6fd140cdf8962ce1bd3e57c5ab812c2d59> [OK]
