@@ -159,3 +159,6 @@
 >
 - 🐛: Fix lỗi in toa thuốc thang [OK]
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/67f75e6fd140cdf8962ce1bd3e57c5ab812c2d59> [OK]
+>
+- 🐛: Fix lỗi các nút trên form hóa đơn điện tử [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/110> [OK]

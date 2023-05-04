@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0504.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/110>
+- 🐛: Fix lỗi các nút trên form hóa đơn điện tử
+
 ##### [v3.23.0421.1]()
 
 - #️⃣: <https://github.com/dh-hos/oLibraries/commit/67f75e6fd140cdf8962ce1bd3e57c5ab812c2d59>
