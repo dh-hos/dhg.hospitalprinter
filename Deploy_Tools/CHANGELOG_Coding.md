@@ -165,3 +165,8 @@
 >
 - ✨: Bổ sung tùy chọn cho phép cấu hình số lượng Xuất phải nhỏ hơn số lượng theo đơn Bác sĩ khi xuất phiếu ở nhà thuốc.![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-1.png)![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-2.png) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/114> [OK]
+>
+- ✨: Cập nhật Lisence `77156` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
+- 🐛: Fix lỗi không in phiếu 01 khi có CLS miễn giảm 100% [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/115> [OK]

@@ -2,6 +2,13 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0606.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/115>
+- 🐛: Fix lỗi không in phiếu 01 khi có CLS miễn giảm 100%
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157>
+- ✨: Cập nhật Lisence `77156`
+
 ##### [v3.23.0606.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/114>
