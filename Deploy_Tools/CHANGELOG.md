@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0606.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/114>
+- ✨: Bổ sung tùy chọn cho phép cấu hình số lượng Xuất phải nhỏ hơn số lượng theo đơn Bác sĩ khi xuất phiếu ở nhà thuốc.![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-1.png)![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-2.png)
+
 ##### [v3.23.0504.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/110>

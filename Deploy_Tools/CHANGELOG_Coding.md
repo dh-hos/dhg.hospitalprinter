@@ -162,3 +162,6 @@
 >
 - 🐛: Fix lỗi các nút trên form hóa đơn điện tử [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/110> [OK]
+>
+- ✨: Bổ sung tùy chọn cho phép cấu hình số lượng Xuất phải nhỏ hơn số lượng theo đơn Bác sĩ khi xuất phiếu ở nhà thuốc.![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-1.png)![Alt text](../MoTaThayDoi/HuongDan/nhathuoc-chinhsoluongtoa-2.png) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/114> [OK]
