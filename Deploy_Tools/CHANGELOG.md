@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0621.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/43>
+- ✨: Cập nhật Lisence `77155`
+
 ##### [v3.23.0606.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/115>

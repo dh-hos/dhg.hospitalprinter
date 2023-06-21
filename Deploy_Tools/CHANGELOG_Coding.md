@@ -170,3 +170,6 @@
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/42#issuecomment-1578201157> [OK]
 - 🐛: Fix lỗi không in phiếu 01 khi có CLS miễn giảm 100% [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/115> [OK]
+>
+- ✨: Cập nhật Lisence `77155` [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/43> [OK]
