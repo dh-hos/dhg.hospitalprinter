@@ -173,3 +173,6 @@
 >
 - ✨: Cập nhật Lisence `77155` [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/43> [OK]
+>
+- ✨: Cập nhật Lisence `92117` [OK]
+- #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25> [OK]
