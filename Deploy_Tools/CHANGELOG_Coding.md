@@ -176,3 +176,6 @@
 >
 - ✨: Cập nhật Lisence `92117` [OK]
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25> [OK]
+>
+- ✨: Hỗ trợ chức năng kiểm tra phiếu thu có được lập hddt trước khi lập HĐĐT tránh trường hợp bị trùng. [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0626.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106>
+- ✨: Hỗ trợ chức năng kiểm tra phiếu thu có được lập hddt trước khi lập HĐĐT tránh trường hợp bị trùng.
+
 ##### [v3.23.0623.1]()
 
 - #️⃣: <https://github.com/dh-hos/Mo-ta-he-thong/issues/25>
