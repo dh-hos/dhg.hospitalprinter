@@ -179,3 +179,6 @@
 >
 - ✨: Hỗ trợ chức năng kiểm tra phiếu thu có được lập hddt trước khi lập HĐĐT tránh trường hợp bị trùng. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106> [OK]
+>
+- 🐛: Fix lỗi sai đơn vị tính tuổi trên bảng kê Hóa đơn nhà thuốc [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112> [OK]
