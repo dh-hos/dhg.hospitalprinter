@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0628.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112#issuecomment-1611001181>
+- 🐛: Fix lỗi sai đơn vị tính tuổi trên bảng kê Hóa đơn nhà thuốc
+
 ##### [v3.23.0628.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106#issuecomment-1608895385>

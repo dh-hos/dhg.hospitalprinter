@@ -185,3 +185,6 @@
 >
 - ✨: Bổ sung chức năng kiểm tra chứng từ đang được lập phiếu thu ở máy khác. [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106#issuecomment-1608895385> [OK]
+>
+- 🐛: Fix lỗi sai đơn vị tính tuổi trên bảng kê Hóa đơn nhà thuốc [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112#issuecomment-1611001181> [OK]
