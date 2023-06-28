@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0628.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/106#issuecomment-1608895385>
+- ✨: Bổ sung chức năng kiểm tra chứng từ đang được lập phiếu thu ở máy khác.
+
 ##### [v3.23.0627.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112>
