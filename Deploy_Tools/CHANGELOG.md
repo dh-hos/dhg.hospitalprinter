@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0630.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/117>
+- 🐛: Fix lỗi thiếu check Cấp cứu, Đúng tuyến, Thông tuyến, Trái tuyến đối với bệnh nhân lao
+
 ##### [v3.23.0628.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112#issuecomment-1611001181>

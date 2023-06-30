@@ -188,3 +188,6 @@
 >
 - 🐛: Fix lỗi sai đơn vị tính tuổi trên bảng kê Hóa đơn nhà thuốc [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112#issuecomment-1611001181> [OK]
+>
+- 🐛: Fix lỗi thiếu check Cấp cứu, Đúng tuyến, Thông tuyến, Trái tuyến đối với bệnh nhân lao [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/117> [OK]
