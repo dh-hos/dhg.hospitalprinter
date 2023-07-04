@@ -191,3 +191,6 @@
 >
 - 🐛: Fix lỗi thiếu check Cấp cứu, Đúng tuyến, Thông tuyến, Trái tuyến đối với bệnh nhân lao [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/117> [OK]
+>
+- 🐛: Fix lỗi không in được số thứ tự phát thuốc khi danh sách in chỉ có 1 bệnh nhân [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/118> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0704.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/118>
+- 🐛: Fix lỗi không in được số thứ tự phát thuốc khi danh sách in chỉ có 1 bệnh nhân
+
 ##### [v3.23.0630.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/117>
