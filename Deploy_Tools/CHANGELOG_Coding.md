@@ -194,3 +194,6 @@
 >
 - 🐛: Fix lỗi không in được số thứ tự phát thuốc khi danh sách in chỉ có 1 bệnh nhân [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/118> [OK]
+>
+- 🐛: Fix lỗi cảnh báo sai số tiền khi bệnh nhân thuộc hộ nghèo (có mã hộ nghèo) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/119> [OK]

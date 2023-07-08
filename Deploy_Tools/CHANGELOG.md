@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0708.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/119>
+- 🐛: Fix lỗi cảnh báo sai số tiền khi bệnh nhân thuộc hộ nghèo (có mã hộ nghèo)
+
 ##### [v3.23.0704.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/118>
