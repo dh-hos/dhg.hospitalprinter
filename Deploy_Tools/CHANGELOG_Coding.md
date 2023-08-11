@@ -197,3 +197,5 @@
 >
 - 🐛: Fix lỗi cảnh báo sai số tiền khi bệnh nhân thuộc hộ nghèo (có mã hộ nghèo) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/119> [OK]
+>
+- ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001) [OK]
