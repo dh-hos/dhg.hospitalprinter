@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0823.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112>
+- 🐛: Fix sai thông tin ngày sinh trên form bán lẻ, tính lại ngày tháng năm sinh khi chỉnh xong tuổi hoặc đơn vị tuổi, ngược lại tính lại tuổi và đơn vị tuổi khi chỉnh ngày tháng năm sinh (thoát khỏi control trên form sẽ tính lại)
+- 🐛: Fix Lỗi - HIỂN THỊ SAI THÔNG TIN ĐƠN VỊ TUỔI - BẢNG KÊ HOÁ ĐƠN NHÀ THUỐC
+
 ##### [v3.23.0811.1]()
 
 - ✨: Bổ sung chức năng thanh toán QRCode đối với bệnh viện Tim Mạch CT (92001)
