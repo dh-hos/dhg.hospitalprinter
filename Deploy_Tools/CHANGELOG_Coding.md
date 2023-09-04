@@ -203,3 +203,6 @@
 - 🐛: Fix Lỗi - HIỂN THỊ SAI THÔNG TIN ĐƠN VỊ TUỔI - BẢNG KÊ HOÁ ĐƠN NHÀ THUỐC [OK]
 - 🐛: Fix sai thông tin ngày sinh trên form bán lẻ, tính lại ngày tháng năm sinh khi chỉnh xong tuổi hoặc đơn vị tuổi, ngược lại tính lại tuổi và đơn vị tuổi khi chỉnh ngày tháng năm sinh (thoát khỏi control trên form sẽ tính lại) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112>  [OK]
+>
+- ✨: Thay đổi chức năng [Mở khóa và xóa giờ kết thúc khám] thành chức năng chính trên form [Mở khóa chứng từ] [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63> [OK]

@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0904.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63>
+- ✨: Thay đổi chức năng [Mở khóa và xóa giờ kết thúc khám] thành chức năng chính trên form [Mở khóa chứng từ]
+
 ##### [v3.23.0823.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/112> 
