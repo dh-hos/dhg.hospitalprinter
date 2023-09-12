@@ -218,3 +218,6 @@
 >
 - ✨: Mở chức năng tìm kiếm bằng mã bệnh nhân và thực hiện in phiếu 01 đối với bệnh viện Trà Cú (84006) (Tìm theo mã bệnh nhân hoặc quét QR mã bệnh nhân) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/104> [OK]
+>
+- 🐛: Fix Lỗi - Sai trạng thái đã in bệnh nhân không lấy thuốc toa mua ngoài (Không tác động đến trạng thái của bệnh nhân đối với nhà thuốc) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/111> [OK]
