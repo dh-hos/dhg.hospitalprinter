@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.4]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/104>
+- ✨: Mở chức năng tìm kiếm bằng mã bệnh nhân và thực hiện in phiếu 01 đối với bệnh viện Trà Cú (84006) (Tìm theo mã bệnh nhân hoặc quét QR mã bệnh nhân)
+
 ##### [v3.23.0912.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/116>

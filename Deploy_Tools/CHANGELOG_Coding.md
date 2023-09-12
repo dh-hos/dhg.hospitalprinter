@@ -215,3 +215,6 @@
 >
 - ✨: Yêu cầu - Nhà thuốc không cho Xuất bán lẻ ngày cũ. (Thực hiện cho phép cấu hình trên form [Cấu hình tham số] cho phép hay không)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-01.png)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-02.png) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/116> [OK]
+>
+- ✨: Mở chức năng tìm kiếm bằng mã bệnh nhân và thực hiện in phiếu 01 đối với bệnh viện Trà Cú (84006) (Tìm theo mã bệnh nhân hoặc quét QR mã bệnh nhân) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/104> [OK]
