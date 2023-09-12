@@ -209,3 +209,6 @@
 >
 - 🐛: Lỗi - Printer Phục hồi toa in lại giờ lập chứng từ thay đổi (Không thực hiện cập nhật giờ lập khi phục hồi toa) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/121> [OK]
+>
+- 🐛: Lỗi - Đối tượng thu phí cho vật tư kèm theo printer nhà thuốc không thấy tên bệnh nhân để phát (Thực hiện lấy những bệnh nhân thu phí có kèm toa vật tư kèm theo lên danh sách chưa in) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/120> [OK]

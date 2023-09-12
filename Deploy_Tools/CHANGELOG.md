@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/120>
+- 🐛: Lỗi - Đối tượng thu phí cho vật tư kèm theo printer nhà thuốc không thấy tên bệnh nhân để phát (Thực hiện lấy những bệnh nhân thu phí có kèm toa vật tư kèm theo lên danh sách chưa in)
+
 ##### [v3.23.0912.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/121>
