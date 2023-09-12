@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/116>
+- ✨: Yêu cầu - Nhà thuốc không cho Xuất bán lẻ ngày cũ. (Thực hiện cho phép cấu hình trên form [Cấu hình tham số] cho phép hay không)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-01.png)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-02.png)
+
 ##### [v3.23.0912.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/120>

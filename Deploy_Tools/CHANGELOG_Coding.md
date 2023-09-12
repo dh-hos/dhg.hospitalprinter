@@ -212,3 +212,6 @@
 >
 - 🐛: Lỗi - Đối tượng thu phí cho vật tư kèm theo printer nhà thuốc không thấy tên bệnh nhân để phát (Thực hiện lấy những bệnh nhân thu phí có kèm toa vật tư kèm theo lên danh sách chưa in) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/120> [OK]
+>
+- ✨: Yêu cầu - Nhà thuốc không cho Xuất bán lẻ ngày cũ. (Thực hiện cho phép cấu hình trên form [Cấu hình tham số] cho phép hay không)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-01.png)![Alt text](../MoTaThayDoi/HuongDan/BanLe_XuatKhacNgayHeThong-02.png) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/116> [OK]
