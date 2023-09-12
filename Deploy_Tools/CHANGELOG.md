@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.6]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124>
+- 🐛: Fix Lỗi - Không ghép được tên bệnh theo công văn 3153/BYT-BH khi khám bệnh nhân Lao (Không cập nhật lại kết quả chẩn đoán kqcdoan trong psdang của bệnh lao theo công văn 3153/BYT-BH)
+
 ##### [v3.23.0912.5]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/111>
