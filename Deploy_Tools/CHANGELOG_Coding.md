@@ -224,3 +224,6 @@
 >
 - 🐛: Fix Lỗi - Không ghép được tên bệnh theo công văn 3153/BYT-BH khi khám bệnh nhân Lao (Không cập nhật lại kết quả chẩn đoán kqcdoan trong psdang của bệnh lao theo công văn 3153/BYT-BH) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124> [OK]
+>
+- 🐛: Fix Lỗi - Sai trạng thái đã in bệnh nhân không lấy thuốc toa mua ngoài (Không tác động đến trạng thái của bệnh nhân đối với nhà thuốc đối với 2 trường hợp [Không lấy toa và đồng ý in bảng kê BHYT] và [Không lấy toa và không in bảng kê BHYT]) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/111#issuecomment-1715302987> [OK]

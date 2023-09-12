@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.7]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/111#issuecomment-1715302987>
+- 🐛: Fix Lỗi - Sai trạng thái đã in bệnh nhân không lấy thuốc toa mua ngoài (Không tác động đến trạng thái của bệnh nhân đối với nhà thuốc đối với 2 trường hợp [Không lấy toa và đồng ý in bảng kê BHYT] và [Không lấy toa và không in bảng kê BHYT])
+
 ##### [v3.23.0912.6]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124>
