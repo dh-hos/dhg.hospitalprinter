@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0912.1]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/121>
+- 🐛: Lỗi - Printer Phục hồi toa in lại giờ lập chứng từ thay đổi (Không thực hiện cập nhật giờ lập khi phục hồi toa)
+
 ##### [v3.23.0904.1]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63>

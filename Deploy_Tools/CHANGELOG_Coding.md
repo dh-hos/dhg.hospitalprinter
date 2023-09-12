@@ -206,3 +206,6 @@
 >
 - ✨: Thay đổi chức năng [Mở khóa và xóa giờ kết thúc khám] thành chức năng chính trên form [Mở khóa chứng từ] [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/63> [OK]
+>
+- 🐛: Lỗi - Printer Phục hồi toa in lại giờ lập chứng từ thay đổi (Không thực hiện cập nhật giờ lập khi phục hồi toa) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/121> [OK]
