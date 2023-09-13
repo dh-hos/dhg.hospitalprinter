@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0913.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/82>
+- ✨: Thêm chức năng: Cho phép người dùng xác nhận có in mẫu thanh toán BHYT (phiếu 01) khi thực hiện chức năng [Không lấy thuốc] và khi cấu hình số bản in phiếu 01 bằng 0.![Alt text](../MoTaThayDoi/HuongDan/KhongLayThuoc-ThemCanhBao-KhiCauhinhSobaninBang0.png)
+
 ##### [v3.23.0913.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124#issuecomment-1716862474>

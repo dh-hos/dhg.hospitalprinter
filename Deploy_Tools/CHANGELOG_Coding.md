@@ -233,3 +233,6 @@
 >
 - 🐛: Fix lỗi khi in (Thêm chức năng ghép tên bệnh theo 3153/BYT-BH đối với bệnh nhân LAO khi xuất XML) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124#issuecomment-1716862474> [OK]
+>
+- ✨: Thêm chức năng: Cho phép người dùng xác nhận có in mẫu thanh toán BHYT (phiếu 01) khi thực hiện chức năng [Không lấy thuốc] và khi cấu hình số bản in phiếu 01 bằng 0.![Alt text](../MoTaThayDoi/HuongDan/KhongLayThuoc-ThemCanhBao-KhiCauhinhSobaninBang0.png) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/82> [OK]
