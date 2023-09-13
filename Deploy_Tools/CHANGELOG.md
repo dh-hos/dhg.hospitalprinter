@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0913.5]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/91>
+- 🐛: Fix Lỗi - BV Cái Răng: Kê toa theo đối tượng, kê toa tổng hợp không hiển thị tuối
+
 ##### [v3.23.0913.4]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/91>
