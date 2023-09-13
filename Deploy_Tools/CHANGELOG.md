@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0913.2]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124#issuecomment-1716862474>
+- 🐛: Fix lỗi khi in (Thêm chức năng ghép tên bệnh theo 3153/BYT-BH đối với bệnh nhân LAO khi xuất XML)
+
 ##### [v3.23.0913.1]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124>

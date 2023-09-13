@@ -230,3 +230,6 @@
 >
 - ✨: Thêm chức năng ghép tên bệnh theo 3153/BYT-BH đối với bệnh nhân LAO khi xuất XML [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124> [OK]
+>
+- 🐛: Fix lỗi khi in (Thêm chức năng ghép tên bệnh theo 3153/BYT-BH đối với bệnh nhân LAO khi xuất XML) [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/124#issuecomment-1716862474> [OK]
