@@ -236,3 +236,6 @@
 >
 - ✨: Thêm chức năng: Cho phép người dùng xác nhận có in mẫu thanh toán BHYT (phiếu 01) khi thực hiện chức năng [Không lấy thuốc] và khi cấu hình số bản in phiếu 01 bằng 0.![Alt text](../MoTaThayDoi/HuongDan/KhongLayThuoc-ThemCanhBao-KhiCauhinhSobaninBang0.png) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/82> [OK]
+>
+- 🐛: Fix Lỗi - BV Cái Răng: Kê toa theo đối tượng, kê toa tổng hợp không hiển thị tuối [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/91> [OK]
