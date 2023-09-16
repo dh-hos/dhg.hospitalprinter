@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0916.1]()
+
+- ✨: Thêm para ghi chú thiết kế riêng cho Phòng Khám Phương Nam - Cà Mau `Ghichu_MaNVLapToa_TKNhanbenh_TenBSMaNV_PKPHUONGNAM` trên phiếu 01 (theo yêu cầu đặc thù của phòng khám)CHANGELOG_Coding.md ![Alt text](../MoTaThayDoi/HuongDan/GhiChu-Phieu01-PKPhuongNam-20230916-01.jpg)
+
 ##### [v3.23.0913.6]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/91>

@@ -239,3 +239,6 @@
 >
 - 🐛: Fix Lỗi - BV Cái Răng: Kê toa theo đối tượng, kê toa tổng hợp không hiển thị tuối [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/91> [OK]
+>
+- ✨: Thêm para ghi chú thiết kế riêng cho Phòng Khám Phương Nam - Cà Mau `Ghichu_MaNVLapToa_TKNhanbenh_TenBSMaNV_PKPHUONGNAM` trên phiếu 01 (theo yêu cầu đặc thù của phòng khám)CHANGELOG_Coding.md ![Alt text](../MoTaThayDoi/HuongDan/GhiChu-Phieu01-PKPhuongNam-20230916-01.jpg) [OK]
+![Alt text](../MoTaThayDoi/HuongDan/GhiChu-Phieu01-PKPhuongNam-20230916-02.png)
