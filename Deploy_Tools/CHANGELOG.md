@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.0918.1]()
+
+- ✨: Thêm chức năng: cho phép cấu hình không cảnh báo khi bệnh nhân có phát sinh đồng chi trả![Alt text](../MoTaThayDoi/HuongDan/KhoaDuoc-KhongCanhBao_PhatSinhDongChiTra.png)
+
 ##### [v3.23.0916.2]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/82#issuecomment-1718698090>

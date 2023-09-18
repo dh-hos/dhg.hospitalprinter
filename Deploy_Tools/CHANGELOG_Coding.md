@@ -245,3 +245,5 @@
 >
 - ✨: Fix lỗi trường hợp bệnh nhân không lấy thuốc, đồng ý in phiếu thanh toán những không ra phiếu [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/82#issuecomment-1718698090> [OK]
+>
+- ✨: Thêm chức năng: cho phép cấu hình không cảnh báo khi bệnh nhân có phát sinh đồng chi trả![Alt text](../MoTaThayDoi/HuongDan/KhoaDuoc-KhongCanhBao_PhatSinhDongChiTra.png) [OK]
