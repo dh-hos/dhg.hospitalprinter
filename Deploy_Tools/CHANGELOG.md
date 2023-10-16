@@ -2,6 +2,11 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1016.4]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126>
+- ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang
+
 ##### [v3.23.1016.3]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126>
