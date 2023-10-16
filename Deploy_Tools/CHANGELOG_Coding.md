@@ -250,3 +250,6 @@
 >
 - ✨: Chỉnh thông tin bệnh nhân ngoại trú: bổ sung chức năng nhập lại mã nơi đăng ký ban đầu xác định trái tuyến được hưởng như cùng tuyến. [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/90#issuecomment-1729169695> [OK]
+>
+- 🐛: Fix Lỗi - Không phục hồi được toa nhà thuốc đã bấm Không lấy thuốc của toa nội trú [OK]
+- #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/125#issuecomment-1763636601> [OK]
