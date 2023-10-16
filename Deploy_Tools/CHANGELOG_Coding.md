@@ -253,3 +253,6 @@
 >
 - 🐛: Fix Lỗi - Không phục hồi được toa nhà thuốc đã bấm Không lấy thuốc của toa nội trú [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitalprinter/issues/125#issuecomment-1763636601> [OK]
+>
+- ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126> [OK]
