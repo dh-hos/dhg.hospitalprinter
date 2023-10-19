@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1019.1]()
+
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/92>
+- ✨: Thêm option cho phép cấu hình sử dụng chức năng Đang phục vụ trên form Quét mã, soạn thuốc, phát thuốc
+- ✨: Yêu cầu - Hỗ trợ xuất thông tin bệnh nhân ra LCD phát thuốc BHYT![Alt text](../MoTaThayDoi/HuongDan/outtv-option-an-chuc-nang-dang-phuc-vu-SOAN-THUOC.png)
+
 ##### [v3.23.1016.4]()
 
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126>

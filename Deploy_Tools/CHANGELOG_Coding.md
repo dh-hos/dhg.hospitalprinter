@@ -256,3 +256,7 @@
 >
 - ✨: Yêu cầu - Cấp license thêm mã đơn vị triển khai mới - BV Đa Khoa Tâm Minh Đức Tiền Giang [OK]
 - #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/126> [OK]
+>
+- ✨: Yêu cầu - Hỗ trợ xuất thông tin bệnh nhân ra LCD phát thuốc BHYT![Alt text](../MoTaThayDoi/HuongDan/outtv-option-an-chuc-nang-dang-phuc-vu-SOAN-THUOC.png) [OK]
+- ✨: Thêm option cho phép cấu hình sử dụng chức năng Đang phục vụ trên form Quét mã, soạn thuốc, phát thuốc [OK]
+- #️⃣: <https://github.com/dh-hos/To_Lap_Trinh/issues/92> [OK]
