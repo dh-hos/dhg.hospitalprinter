@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1031.3]()
+
+- #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49>
+- ✨: Mở chức năng chỉnh sửa hồ sơ ngoại trú [`Chỉnh hồ sơ khám`] đối với Quận 12 (`79029`) (Sếp duyệt qua Zalo)
+- 🐛: Fix Lỗi - Hiệu chỉnh thông tin không cập nhật được tuyenxml (`Thay Plus.dll bằng HosReg.Plus.dll`) 
+
 ##### [v3.23.1031.2]()
 
 -  âœ¨:
