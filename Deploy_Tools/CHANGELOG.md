@@ -2,6 +2,10 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1130.1]()
+
+- 🐛: Fix Lỗi - Hiệu chỉnh hồ sơ bệnh án (BV Quận 12)![Alt text](../MoTaThayDoi/Errors/loi-chinh-ho-so.jpg)
+
 ##### [v3.23.1031.3]()
 
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49>

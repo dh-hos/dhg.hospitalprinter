@@ -264,3 +264,5 @@
 - 🐛: Fix Lỗi - Hiệu chỉnh thông tin không cập nhật được tuyenxml (`Thay Plus.dll bằng HosReg.Plus.dll`)  [OK]
 - ✨: Mở chức năng chỉnh sửa hồ sơ ngoại trú [`Chỉnh hồ sơ khám`] đối với Quận 12 (`79029`) (Sếp duyệt qua Zalo) [OK]
 - #️⃣: <https://github.com/dh-hos/dhg.hospitaladmin/issues/49> [OK]
+>
+- 🐛: Fix Lỗi - Hiệu chỉnh hồ sơ bệnh án (BV Quận 12)![Alt text](../MoTaThayDoi/Errors/loi-chinh-ho-so.jpg) [OK]
