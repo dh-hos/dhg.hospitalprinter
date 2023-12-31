@@ -2,6 +2,12 @@
 
 <div align="center" style="font-size:xx-small">(✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc) </div>
 
+##### [v3.23.1231.1]()
+
+-  âœ¨:
+-  ðŸ›:
+-  #ï¸âƒ£:
+
 ##### [v3.23.1211.1]()
 
 - ✨: Bổ sung chức năng in phiếu đối với bệnh nhân ưu tiên (BV Quận 12). Mặc định Printer hoặc HospitalPrinterSmartOut sẽ lấy mã đơn vị sẽ theo `kho cấp phát`, đối tượng ưu tiên của kho này sẽ được ghép chuỗi `".uutien"` phía sau. Để cấu hình thể hiện đối tượng ưu tiên phải cấu hình thêm `madonvi.config` trong thư mục cài đặt (nếu không có tập tin `madonvi.config` này thì chương trình sẽ lấy mặc định theo kho cấp phát). ![Alt text](../MoTaThayDoi/Outtv/madonvi-config-00.png)![Alt text](../MoTaThayDoi/Outtv/madonvi-config-01.png)![Alt text](../MoTaThayDoi/Outtv/madonvi-config-02.png)
